@@ -38,5 +38,3 @@ AUTHOR: Ivona Pranjić, 2025./2026.
 <img width="1990" height="1190" alt="image" src="https://github.com/user-attachments/assets/19cee60c-1bed-4e75-833d-e0d9d86bcfb6" />
 
 
-## Autor:
-Ivona Pranjić
